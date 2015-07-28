@@ -2,7 +2,7 @@
 
 ---
 title: HELLO
-layout: default
+layout: default.html
 ---
 
 ---
